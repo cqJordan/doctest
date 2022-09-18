@@ -18,13 +18,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'rCore-Tutorial-Book-v3'
-copyright = '2020-2022, Yu Chen, Yifan Wu'
-author = 'Yu Chen, Yifan Wu'
+copyright = '2022-2032, Chowlam'
+author = 'Chowlam'
 language = 'zh_CN'
 html_search_language = 'zh'
 
 # The full version, including alpha/beta/rc tags
-release = '3.6.0-alpha.1'
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -32,19 +32,6 @@ release = '3.6.0-alpha.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-    "sphinx_comments"
-]
-
-comments_config = {
-   "utterances": {
-       "repo": "rcore-os/rCore-Tutorial-Book-v3",
-       "issue-term": "pathname",
-       "label": "comments",
-       "theme": "github-light",
-       "crossorigin": "anonymous",
-   }
-}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
