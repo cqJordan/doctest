@@ -17,32 +17,21 @@
 
 # -- Project information -----------------------------------------------------
 
-<<<<<<< HEAD
+
 project = 'Next'
-=======
-project = 'rCore-Tutorial-Book-v3'
->>>>>>> b08a8d26ae992c91ec45d4542326b4d8b13ff462
+
 copyright = '2022-2032, Chowlam'
 author = 'Chowlam'
 language = 'zh_CN'
 html_search_language = 'zh'
 
 # The full version, including alpha/beta/rc tags
-<<<<<<< HEAD
+
 release = '1.0.0'
-=======
-release = '1.0'
->>>>>>> b08a8d26ae992c91ec45d4542326b4d8b13ff462
+
 
 
 # -- General configuration ---------------------------------------------------
-
-<<<<<<< HEAD
-=======
-# Add any Sphinx extension module names here, as strings. They can be
-# extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
-# ones.
->>>>>>> b08a8d26ae992c91ec45d4542326b4d8b13ff462
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
